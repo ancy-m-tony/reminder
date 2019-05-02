@@ -4,36 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Reminders Task</title>
+<title>Reminders</title>
 </head>
 <body>
 
 <center>
 <h2>Reminders</h2>
-<%-- <form action="Upload22" method="post" enctype="multipart/form-data">
-<table>
-<tr>
-<td>
-</td>
-<td>
-<div>
-
-   </br>  
-       <input type="file" name="file" />
-                <input type="submit" value="upload" />
-
-            </br>
-            <div id="result">
-
-            <h3>${requestScope["message"]}</h3>
-
-        </div>    
-
-        </div>
-        </td>
-        </tr></table>
- </form>   
- --%><form method="post" action="Upload11" name="form2">
+<form method="post" action="Upload11" name="form2">
 <table>
 
 <tr>
